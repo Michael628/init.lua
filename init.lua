@@ -1,4 +1,3 @@
-require("theprimeagen")
+require 'myinit'
 
 -- hello fem
-
